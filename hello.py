@@ -1,1 +1,3 @@
-type(1.5)
+
+# Print "hello, world!" to the terminal
+print('Hello, World!')
